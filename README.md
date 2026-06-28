@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm KRISHNA R VISHWAKARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kv8900830-design&label=Profile%20views&color=0e75b6&style=flat" alt="kv8900830-design" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **mail.kr1shnavishwakarma@gmail.com**
 
